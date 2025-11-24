@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark)
-
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=winterstar67&theme=github-dark)
 
 <!--
 **winterstar67/winterstar67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
